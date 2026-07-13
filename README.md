@@ -19,9 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0326-power-of-three](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0058-length-of-last-word) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
