@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0509-fibonacci-number) |
+| [2485-find-the-pivot-integer](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/2485-find-the-pivot-integer) |
 ## String
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
