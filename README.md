@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -59,5 +60,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
