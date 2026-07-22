@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0058-length-of-last-word) |
+| [0345-reverse-vowels-of-a-string](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
