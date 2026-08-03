@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0877-stone-game) |
 | [2485-find-the-pivot-integer](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/2485-find-the-pivot-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
