@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0877-stone-game) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0877-stone-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
