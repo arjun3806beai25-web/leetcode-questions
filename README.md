@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
