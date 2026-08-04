@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0877-stone-game) |
+| [1572-matrix-diagonal-sum](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
