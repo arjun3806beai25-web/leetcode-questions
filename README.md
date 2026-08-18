@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0867-transpose-matrix) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0326-power-of-three) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
