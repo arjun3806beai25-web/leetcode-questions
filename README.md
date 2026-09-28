@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0283-move-zeroes) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0344-reverse-string) |
