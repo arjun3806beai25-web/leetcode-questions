@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0867-transpose-matrix) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/arjun3806beai25-web/leetcode-questions/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
